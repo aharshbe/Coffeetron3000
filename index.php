@@ -1,1 +1,1 @@
-<?php header( 'Location: /index.html' ) ;  ?>
+<?php header( 'Location: Coffee-Tron\ Deploy/Coffee-Tron/index.html' ) ;  ?>
